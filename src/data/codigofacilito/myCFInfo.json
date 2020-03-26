@@ -1,0 +1,98 @@
+
+{
+
+    "data": {
+        "email": "adenacos@gmail.com",
+        "username": "lucasmicheli",
+        "certificates": [
+            {
+                "score": 10,
+                "code": "b425ef13-38cc-4382-8e51-decfb52a5ed5",
+                "title": "Curso Profesional de JavaScript"
+            },
+            {
+                "score": 9,
+                "code": "0e47cb3f-d5cb-44fb-9097-2ce1481cd746",
+                "title": "Curso profesional de PHP"
+            },
+            {
+                "score": 9,
+                "code": "915bf4eb-4d10-48d1-8dd6-86623ca22758",
+                "title": "Curso Profesional de Python"
+            }
+        ],
+        "articles": [ ],
+        "courses": [
+            {
+                "title": "Curso Profesional de JavaScript",
+                "progress": "100.0",
+                "url": "http://codigofacilito.com/courses/javascript-profesional"
+            },
+            {
+                "title": "JavaScript y el DOM",
+                "progress": "100.0",
+                "url": "http://codigofacilito.com/courses/javascript-dom"
+            },
+            {
+                "title": "Curso profesional de PHP",
+                "progress": "100.0",
+                "url": "http://codigofacilito.com/courses/php-profesional"
+            },
+            {
+                "title": "Curso Profesional de Python",
+                "progress": "100.0",
+                "url": "http://codigofacilito.com/courses/python-profesional"
+            },
+            {
+                "title": "Curso gratuito de Flask",
+                "progress": "3.0",
+                "url": "http://codigofacilito.com/courses/flask"
+            },
+            {
+                "title": "Curso gratuito de Django",
+                "progress": "4.0",
+                "url": "http://codigofacilito.com/courses/django"
+            },
+            {
+                "title": "Bytes",
+                "progress": "0.0",
+                "url": "http://codigofacilito.com/courses/15"
+            },
+            {
+                "title": "Crea un sitio personal con Gatsby",
+                "progress": "46.0",
+                "url": "http://codigofacilito.com/courses/sitio-persional-gatsby"
+            },
+            {
+                "title": "Consumir APIs con Python",
+                "progress": "7.0",
+                "url": "http://codigofacilito.com/courses/consumir-apis-python"
+            },
+            {
+                "title": "Curso de Fundamentos de React",
+                "progress": "0.0",
+                "url": "http://codigofacilito.com/courses/react-intro-gratis"
+            }
+        ],
+        "finished_courses": [
+            {
+                "title": "Curso Profesional de JavaScript",
+                "url": "http://codigofacilito.com/courses/javascript-profesional"
+            },
+            {
+                "title": "JavaScript y el DOM",
+                "url": "http://codigofacilito.com/courses/javascript-dom"
+            },
+            {
+                "title": "Curso profesional de PHP",
+                "url": "http://codigofacilito.com/courses/php-profesional"
+            },
+            {
+                "title": "Curso Profesional de Python",
+                "url": "http://codigofacilito.com/courses/python-profesional"
+            }
+        ]
+    },
+    "errors": [ ]
+
+}

@@ -1,0 +1,12 @@
+{
+    "slug": "others",
+    "title": "Otros logros académicos",
+    "description": "Talleres y Capacitaciones",
+    "items": [
+        {
+            "name": "Universidad Nacional de Mar del Plata",
+            "degree": "First Certificate",
+            "score": "Aprobado"
+        }
+    ]
+}

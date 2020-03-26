@@ -1,0 +1,19 @@
+{
+    "slug": "online",
+    "title": "Cursos en línea",
+    "description": "Cursos en plataformas de e-learning",
+    "items": [
+        {
+            "name": "Curso Profesional de JavaScript",
+            "url": "http://codigofacilito.com/courses/javascript"
+        },
+        {
+            "name": "Curso Profesional de PHP",
+            "url": "http://codigofacilito.com/courses/php"
+        },
+        {
+            "name": "Curso Profesional de Python",
+            "url": "http://codigofacilito.com/courses/python"
+        }
+    ]
+}

@@ -1,0 +1,17 @@
+{
+    "slug": "presencial",
+    "title": "Formación Académica",
+    "description": "Grados de Estudio e Instituciones donde asistí",
+    "items": [
+        {
+            "name": "Universidad Tecnológica Nacional",
+            "degree": "Analista del Conocimiento",
+            "score": "Aprobado"
+        },
+        {
+            "name": "Universidad Nacional del Centro - Tandil",
+            "degree": "Diplomatura en Diseño de Experiencias Digitales",
+            "score": "Aprobado"
+        }
+    ]
+}
